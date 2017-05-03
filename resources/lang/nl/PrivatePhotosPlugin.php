@@ -1,0 +1,21 @@
+<?php return 
+ array (
+  'use_your_credits_for' => 'Gebruik je credits voor:',
+  'make_it_private' => 'Maak het private',
+  'this_photo_is_private' => 'Deze foto is prive',
+  'click_to_send_request' => 'Klik hier om te versturen',
+  'private_photo_link_text' => 'privé-foto&#39;s',
+  'private_photo_pending_header' => 'Privé-foto&#39;s In afwachting van Verzoeken',
+  'no_private_photos_text' => 'Voel je niet terneergeslagen! Je hebt geen verzoeken in behandeling te hebben.',
+  'private_photos_request_accept' => 'verzoek aanvaard',
+  'private_photos_request_reject' => 'verzoek afgewezen',
+  'private_photos_request_sent' => 'Verzoek om private foto&#39;s te zien al verstuurd.',
+  'note' => 'Notitie!',
+  'private_photos_send_request' => 'Om te zien privéfoto&#39;s stuur aanvraag',
+  'private_photos_send_request_ask' => 'Nu aanvraag sturen naar het privé foto&#39;s te zien?',
+  'click_to_cancel_request' => 'klik om te annuleren',
+  'image_private_success' => 'Het beeld is nu prive',
+  'image_public_success' => 'Het beeld is nu openbaar',
+  'make_public_photo_error' => 'Kan deze foto niet openbaar te maken',
+  'accecpt_photo_request_notif_text' => 'aanvaard je privé foto aanvraag',
+);

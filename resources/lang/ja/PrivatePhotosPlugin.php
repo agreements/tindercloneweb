@@ -1,0 +1,21 @@
+<?php return 
+ array (
+  'use_your_credits_for' => '以下のためにあなたのクレジットを使用します。',
+  'make_it_private' => 'それを非公開にします',
+  'this_photo_is_private' => 'この写真は非公開です',
+  'click_to_send_request' => 'リクエストを送信するためにクリック',
+  'private_photo_link_text' => 'プライベート写真',
+  'private_photo_pending_header' => 'リクエストを保留中のプライベート写真',
+  'no_private_photos_text' => '落胆感じることはありません！あなたは、任意の保留中の要求を持っていません。',
+  'private_photos_request_accept' => '要求受け入れ',
+  'private_photos_request_reject' => '要求拒否',
+  'private_photos_request_sent' => 'プライベート写真を表示するには、リクエストが既に送信します。',
+  'note' => '注意！',
+  'private_photos_send_request' => 'プライベート写真を表示するには、要求を送信してください。',
+  'private_photos_send_request_ask' => 'プライベート写真を表示するには、要求を送信しますか？',
+  'click_to_cancel_request' => 'キャンセルするにはクリック',
+  'image_private_success' => '画像は現在非公開です',
+  'image_public_success' => '画像は現在公開されて',
+  'make_public_photo_error' => 'この写真を公開することはできません。',
+  'accecpt_photo_request_notif_text' => 'あなたのプライベートの写真の要求を受け入れ',
+);

@@ -1,0 +1,249 @@
+.lite-oxide-welcome-column
+{
+	margin-top: 0px!important;
+}
+.column1-form-col-styling
+{
+	margin-top: 0%!important;
+}
+.btn-signin-liteoxidelandingpage
+{
+	margin-top: 22px!important;
+}
+.liteoxide-btn-custom
+{
+	margin-top: 18px!important;
+	box-shadow: none!important;
+}
+.liteoxide-btn-custom:active
+{
+	background-color: transparent;
+	border:none;
+	box-shadow: none!important;
+}
+.liteoxide-btn-custom:focus
+{
+	background-color: transparent;
+	border:none;
+	box-shadow: none!important;
+}
+.input-dob-custom
+{
+	border: none;
+    background: transparent;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.13);
+    color: rgba(0, 0, 0, 0.4);
+    border-radius: 0px;
+}
+
+.landing-pulse
+{
+	display: inline-block;
+	color: #000;
+	margin-left: 14%;
+	font-weight: 100;
+}
+.input-addon-custom
+{
+	background: inherit!important;
+	border:none!important;
+	border-radius: 0px!important;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.13)!important
+}
+.img-thumbnail
+{
+	background: transparent!important;
+	border:none!important;
+}
+
+.column1-custom-styling
+{
+	 background-size: cover !important;
+}
+.profile_drop_menu
+{
+ border-radius:35px;
+ color:rgba(0, 0, 0, 0.68);
+ background:white;
+ line-height:4px;
+ padding:3px;
+ border:1px solid rgba(0, 0, 0, 0.61)  
+}
+.profile_drop_menu:hover
+{
+ background:white;
+ color:#2E5ABF;
+}
+.social-more-icon:hover
+{
+ color:#2E5ABF;
+}
+.display_in_block
+{
+  display:inline-block;
+}
+
+.social-dropdown-div-ul
+{
+ top:140%;
+ left:-13px;
+ padding:8px 8px;
+ border-radius:11px;
+}
+.social-dropdown-div-ul>li>a
+{
+ margin-bottom:2px;
+}
+.social-dropdown-div-ul:before
+{
+    position: absolute;
+    top: -5px;
+    left: 11%;
+    width: 11px;
+    height: 11px;
+    margin: 0 0 0 -3px;
+    content: '';
+    border: 1px solid;
+    border-color: rgba(0,0,0,.15) transparent transparent rgba(0,0,0,.15);
+    background: #fff;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+.social-dropdown-div-ul:after
+{
+    position: absolute;
+    bottom: 100%;
+    left: 0;
+    width: 100%;
+    height: 13px;
+    content: '';
+    border: 1px solid transparent;
+}
+.btn--facebook:hover {
+    background: #2851AF!important;
+}
+
+@media only screen and (min-width: 200px) and (max-width: 250px) {
+.landing-bg-image
+{
+	margin-left: 1%!important;
+}
+.landing-bg-text
+{
+	margin-left: 0%!important;
+}
+.landing-pulse
+{
+	display: inline-block;
+	color: #000;
+	margin-left: 19%;
+	font-weight: 100;
+}
+.landing-date
+{
+	margin-left: 1%!important;
+}
+}
+
+@media only screen and (max-width: 992px) {
+.social_login_cnt
+{
+	margin-left: 0px;
+	margin-bottom: 1%!important;
+	margin-top: 5px!important;
+	text-align: center!important;
+	margin-top: 1%!important;
+}
+
+
+.column1-form-col-styling
+{
+	width: 100%;
+	float: left;
+	margin-right: 0%;
+	padding-bottom: 10%;
+}
+.column1-custom-styling
+{
+	
+	padding-bottom: 10%;
+	/* background-size: cover!important; */
+}
+.btn--google {
+    /* margin-right: 1%; */
+    width: 100%;
+    display: block;
+    margin: 5% 0% 5% 0%;
+}
+.btn--facebook {
+    /* width: 50%; */
+    /* display: flex; */
+    width: 100%;
+    display: block;
+    margin: 5% 0% 5% 0%;
+}
+.btn-signin-liteoxidelandingpage
+{
+	margin-top: 22px;
+}
+.liteoxide-btn-custom
+{
+	margin-top: 22px;
+}
+.dropdown-custom-styling
+{
+	margin-right: 1%;
+}
+.landing-bg-image
+{
+	margin-left: 1%!important;
+}
+.landing-bg-text
+{
+	margin-left: 0%!important;
+}
+.landing-pulse
+{
+	display: inline-block;
+	color: #000;
+	margin-left: 19%;
+	font-weight: 100;
+}
+.landing-date
+{
+	margin-left: 1%!important;
+}
+}
+@media only screen and (min-width: 992px) {
+
+.column1-custom-styling
+{
+	/* background-size: cover!important; */
+}
+}	
+@media only screen and (min-width: 1500px) {
+
+.column1-custom-styling
+{
+	/* background-size: contain!important; */
+}
+.landing-bg-image
+{
+	margin-left: 250px!important;
+}
+.landing-bg-text
+{
+	margin-left: 0%!important;
+}
+.landing-pulse
+{
+	display: inline-block;
+	color: #000;
+	margin-left: 200px;
+	font-weight: 100;
+}
+.landing-date
+{
+	margin-left: 300px!important;
+}
+}	

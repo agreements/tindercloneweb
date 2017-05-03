@@ -1,0 +1,21 @@
+<?php 
+return array(
+	'use_your_credits_for'  => 'Use your credits for:',
+	'make_it_private'  => 'Make it private',
+	'this_photo_is_private'  => 'This photo is private',
+	'click_to_send_request'  => 'Click to send request',
+	'private_photo_link_text'  => 'Private Photos',
+	'private_photo_pending_header'  => 'Private Photos Pending Requests',
+	'no_private_photos_text'  => 'Don\'t feel dejected! You don\'t have any pending requests.',
+	'private_photos_request_accept'  => 'Request accepted',
+	'private_photos_request_reject'  => 'Request rejected',
+	'private_photos_request_sent'  => 'Request to see private photos already sent.',
+	'note'  => 'Note!',
+	'private_photos_send_request'  => 'To see private photos please send request',
+	'private_photos_send_request_ask'  => 'Send request to see the private photos ?',
+	'click_to_cancel_request'  => 'click to cancel',
+	'image_private_success'  => 'Image is private now',
+	'image_public_success'  => 'Image is public now',
+	'make_public_photo_error'  => 'Can not make this photo public',
+	'accecpt_photo_request_notif_text'  => 'accepted your private photo request',
+);

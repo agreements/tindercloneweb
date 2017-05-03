@@ -1,0 +1,1 @@
+if(!widgetConfig)var widgetConfig={};widgetConfig.integrationUrl||(widgetConfig.integrationUrl="https://assets.fortumo.com/fmp"),widgetConfig.widgetLoadUrl||(widgetConfig.widgetLoadUrl="//pay.fortumo.com");

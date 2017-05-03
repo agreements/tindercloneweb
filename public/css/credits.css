@@ -1,0 +1,201 @@
+@media only screen and (max-width: 990px) {
+    .pad{
+    	display:none;
+    }
+}
+/*start*/
+.cont-cover1{
+    border: 1px solid rgb(225, 225, 225);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.08);
+    /*float: left;*/
+    background-color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.cont-cover1 h4
+{
+	color: rgb(102, 102, 102);
+    font-size: 20px;
+}
+.cont-cover1 p{
+	    color: rgb(153, 153, 153);
+    	font-size: 14px;
+    	margin-top: 20px;
+}
+.cont-cover1 p span{
+	color:#000000;
+}
+.refill_container{
+    text-align: center;
+    background: transparent linear-gradient( #ECEAEB, #656263) repeat scroll 0px 0px !important;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 10px;
+}
+.refill_container > .btn-primary{
+    color: #232121;
+    background-color: #D7DEE4;
+    border-color: #BEC1C3;
+}
+.refill_container > .btn-primary:hover{
+	    color: #fff;
+    background-color: #595C5F;
+    border-color: #DCDFE2;
+}
+.refill_container h4 strong{
+	color: rgb(58, 52, 52);
+    font-size: 20px;
+}
+/*.modal-content {
+    width: 130%;
+    margin-left: -10%;
+}*/
+
+#myModal > div.modal-dialog > div > div.modal-header
+ {
+    background-color: #989797;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    color: #ffffff;
+}
+#myModal > div.modal-dialog > div > div.modal-header button span{
+    background-color: #312F2F;
+	color: #ffffff;
+	padding: 2px 7px;
+}
+#myModal > div.modal-dialog > div > div.modal-header > .modal-title
+{
+    color: #FFFFFF !important;
+}
+#myModal > div.modal-dialog > div > div.modal-body p
+{
+	margin-top: 0px;
+	color:#948C8C;;
+	font-size: 18px;
+}
+.more_credit{
+    margin-top: 0px !important;
+    color: #000000 !important;
+    font-size: 18px !important;
+}
+.select-points{
+	margin:20px 0px;
+}
+.refill{
+	text-align: center;
+}
+.refill input{
+	height: 20px;
+	width: 20px;
+	color:#616161;
+	vertical-align: -25%;
+}
+
+.refill strong{
+	    color: #616161;
+    	font-size: 16px;
+}
+.refill p{
+    color: #000000;
+    font-size: 13px
+}
+.activate_button{
+	    color: #232121;
+    background-color: #D7DEE4;
+    border-color: #BEC1C3;
+    margin-top:20px;
+}
+.activate_button:hover{
+	 color: #fff;
+    background-color: #595C5F;
+    border-color: #DCDFE2;
+}
+
+.font_red{
+	color:red;
+
+}
+.agree{
+	font-size: 10px;
+	color:#000000 !important;
+}
+.terms{
+	    font-size: 10px;
+    color: #000000 !important;
+    margin-left: 17%;
+    text-decoration: underline !important;
+}
+.popup_footer{
+	    padding: 15px;
+    text-align: center;
+}
+
+.tab-content{
+	padding-top: 15px;
+	border-bottom: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+}
+.payment_getway{
+	padding-top:20px;
+}
+.check{
+    text-align: center;
+    color: #565555 !important;
+    margin-top: 10px !important;
+}
+.paypal{
+	text-align: center;
+}
+.terms_paypal{
+	 font-size: 10px;
+    color: #000000 !important;
+    text-decoration: underline !important;
+}
+.tab-pane div div h4{
+	font-size: 18px !important;
+	 color:#000000;
+}
+.form-horizontal div label{
+	color:#000000;
+}
+/*.paypal_img{
+    margin-left: 75%;
+}*/
+.filter_icon{
+    font-size: 26px;
+    color: #5A5858;
+    margin-left: 20px;
+}
+.filter_icon:hover
+{
+  color: #928B8B;
+	
+}
+#filterModal > div.modal-dialog > div > div.modal-header
+{
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    color: #000000;
+    border-bottom: none;
+}
+
+.checkbox-inline{
+	color:#000000;
+}
+
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+.modal-dialog {
+    background-color: #FFFFFF;
+}

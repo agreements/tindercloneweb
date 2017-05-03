@@ -1,0 +1,29 @@
+@media(max-width:1350px){
+
+	.col-md-2 > .pad
+	{
+		display: none;
+	}
+
+}
+<div class="col-md-4 col-pic">
+								<a href="{{{ URL::to('profile/'.$user->id) }}}">
+								
+									 
+										<div class="row">
+								          <div class="col-md-12 col-member-detail">
+								          <ul>
+								           <span class="people-nearby-online"><i class="fa fa-circle" style="color:#8DC63F"></i></span>
+								          <h5 style="display:inline;font-size:23px">{{{$user->name }}},  {{{ $user->age() }}}</h5>
+								          </ul>
+								          <ul class="list-inline">
+								         <li style="font-size:19px;padding-left:24px;padding-top:3px;color:#A19892;padding-bottom:9px">{{{$user->city }}},IN</li>{{--{{{$user->country}}}--}}
+								           </ul>
+
+								          </div>
+								         </div>
+								      </div>
+								
+								
+							</a>	
+							</div>

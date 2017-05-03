@@ -1,0 +1,158 @@
+.mingle-settings
+{
+	height:712px;
+	background-color: #EFEFE9
+}
+.mingle-settings-heading
+{
+	background-color: #EFEFE9;
+	height: 46px;
+    margin-top: 10px;
+}
+.profile-settings-heading
+{
+	margin-top: 5px;
+    color:#999AA7;
+}
+.mingle-setting-firstpage
+{
+	background-color:#EFEFE9 ;
+	height:315px;
+	margin-top:16px;
+}	
+.btn-mingle-settings
+{
+	float:right;
+	margin-top:-7%;
+}
+.mingle-primary
+{
+	background-color: #EFEFE9;
+	height:223px;
+}
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    margin-left: 22px;
+}
+.mingle-photos-vids
+{
+	background-color: #EFEFE9;
+	height:75px;
+	margin-top:-4%;
+
+}
+.mingle-language
+{
+	background-color:#EFEFE9;
+	height:61px;
+	margin-top:8%;
+}
+.mingle-photos-vids h2 {
+    color: #EA0000;
+    font-size: medium;
+    font-weight: bold;
+    margin-bottom: 5px;
+    padding: 1px 1px;
+}
+.mingle-edit_photos
+{
+  float:right;
+}
+.mingle-language h2
+{
+	color: #EA0000;
+    font-size: medium;
+    font-weight: bold;
+    margin-bottom: 2px;
+    padding: 1px 1px;
+    margin-top: 5px;
+}
+.edit_Change_lan
+{
+	float: right;
+    left: 91%;
+    position: absolute;
+    border-radius: 1px;
+    font-size: 10px;
+    line-height: 1.2;
+    padding: 1px 14px;
+    margin-top: -3%;
+    cursor: pointer;
+}
+.mingle-edit_photos
+{
+	float: right;
+    left: 91%;
+    position: absolute;
+    border-radius: 1px;
+    font-size: 10px;
+    line-height: 1.2;
+    padding: 1px 14px;
+    margin-top: -3%;
+    cursor: pointer;
+}
+.mingle-edit_privacy
+{
+	float: right;
+    left: 91%;
+    position: absolute;
+    border-radius: 1px;
+    font-size: 10px;
+    line-height: 1.2;
+    padding: 1px 14px;
+    margin-top: -3%;
+}
+#second-div
+{
+	margin-bottom:11%;
+	margin-top:-1%;
+}
+td
+{
+	border-right: 1px solid #ddd;
+    color:#999AA7;
+}
+
+.bottom-tr
+{
+	border-bottom: 1px solid #ddd;
+}
+.td-right
+{
+	border-right:none;
+}
+.save-changes-privacy,.cancel-changes-privacy,.save-changes-photos,.cancel-changes-photos,
+.save-changes-lang,.cancel-changes-lang
+{
+	float:right;
+}
+.mingle-setting-firstpage h2 {
+    color: #EA0000;
+    font-size: medium;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding: 1px 1px;
+}
+.save-changes-privacy, .save-changes-photos, .save-changes-lang, .save-changes-notification 
+{
+    float: right;
+    cursor: pointer;
+    font-size: 12px;
+    box-shadow: none !important;
+    background-color: #8FC31F;
+    padding: 0% 1% 0% 1%;
+    margin-left: 1%;
+    color: #fff;
+}
+.cancel-changes-privacy, .cancel-changes-photos, .cancel-changes-lang, .cancel-changes-notification 
+{
+    float: right;
+    cursor: pointer;
+    font-size: 12px;
+    box-shadow: none !important;
+    background-color: #808080;
+    padding: 0% 1% 0% 1%;
+    color: #fff;
+}

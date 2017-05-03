@@ -1,0 +1,293 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-ThinItalic-webfont.eot');
+    src: url('Roboto-ThinItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Roboto-ThinItalic-webfont.woff') format('woff'),
+         url('Roboto-ThinItalic-webfont.ttf') format('truetype'),
+         url('Roboto-ThinItalic-webfont.svg#RobotoThinItalic') format('svg'); (under the Apache Software License). 
+    font-weight: 200;
+    font-style: italic;
+}
+* {
+ font-family: Roboto;
+}
+
+
+
+.people-current-location-tab
+{
+  height:76px;
+  background-color: #F8F8F8;
+  border-bottom:1px solid #EBEBEB;
+}
+.people-nearby-current-picker
+{
+   height:50px;
+   
+   margin-top: 10px;
+   margin-left: 16px;
+}
+.people-nearby-filter
+{
+  height:50px;
+  float:right;
+  
+  margin-top:8px;
+}
+.people-nearby-current-icon
+{
+	font-size: 29px;
+    padding-top: 2px;
+    padding-left: 7px;
+    background-color: blue;
+    border-radius: 36px;
+    width: 30px;
+    margin-top: 9px;
+    margin-left: -8px;
+}
+.people-nearby-filter-button
+{
+	background-color: #EBEBEB;
+    font-size: 29px;
+    width: 32px;
+    border-radius: 27px;
+    padding-left: 3px;
+    height: 34px;
+    padding-top: 2px;
+    float:right;
+    margin-top:8px;
+    color:#6C6C6C;
+}
+.people-nearby-filter-div
+{
+	height:220px;
+	background-color: #F8F8F8;
+}
+.people-nearby-show
+{
+  height:100px;
+  background-color: #F8F8F8;
+  margin-top:5px;
+  padding-top:21px;
+}
+.people-nearby-distance
+{
+  height:100px;
+  background-color: #F8F8F8;
+  margin-top:5px;
+}
+.people-nearby-age
+{
+  height:100px;
+  background-color: #F8F8F8;
+  margin-top:13px;
+}
+.people-nearby-savechanges
+{ 
+  height:100px;
+  background-color: #F8F8F8;
+  margin-top:13px;
+  padding-top: 52px;
+}
+.show-text
+{
+  display:block;
+  color:#525252;
+  font-size:19px;
+}
+input[type='radio'] {
+    -webkit-appearance:none;
+    width:24px;
+    height:24px;
+    border:2px solid #2B65F8;
+    border-radius:50%;
+    outline:none;
+    box-shadow:none;
+}
+input[type='radio']:hover {
+    box-shadow:none;
+}
+input[type='radio']:before {
+    content:'';
+    display:block;
+    width:70%;
+    height:70%;
+    margin: 15% auto;    
+    border-radius:80%;    
+}
+input[type='radio']:checked:before {
+    background:#2B65F8;
+}
+#rad1,#rad2
+{
+	margin-right:12px;
+}
+.container
+{
+	width:88%;
+}
+#hidden > div:nth-child(1) > div.col-md-4.people-nearby-show > label:nth-child(3)
+{
+	color:#525252;
+  margin-right:17px;
+}
+#hidden > div:nth-child(1) > div.col-md-4.people-nearby-show > label:nth-child(5)
+{
+	color:#525252;
+}
+.people-nearby-savechanges-button
+{
+	float:right;
+	border-radius: 25px;
+	background-color: #2B65F8;
+}
+
+body > div > section > div > div > div.col-md-7 > div.cont-cover > div > div > a > div > div.n_member_detail > ul:nth-child(2) > li:nth-child(1)
+{
+	display:none;
+}
+
+
+body > div > section > div > div > div.col-md-7 > div.cont-cover > div > div > a > div > div.n_member_profile > div.bottom-tag
+{
+	display:none;
+}
+body > div > section > div > div > div.col-md-7 > div.cont-cover > div > div > a > div > div.n_member_profile > div.right-tag
+{
+	display:none;
+}
+body > div > section > div > div > div.col-md-7 > div.cont-cover > div > div > a > div > div.n_member_profile > img.profile_tag
+{
+	display:none;
+}
+.txtPlaces
+{
+  border:none;
+  background-color: #F8F8F8;
+   outline: none;
+   color:#4272F8;
+   font-size:18px;
+   padding-bottom:3px;
+   padding-top:3px;
+   border-bottom:1px solid #EBEBEB;
+}
+#slider-age1 > span.ui-slider-handle.ui-state-default.ui-corner-all.ui-state-hover
+{
+  font-size:10px;
+  border-radius: 37px;
+}
+#slider-age1 > span.ui-slider-handle.ui-state-default.ui-corner-all.ui-state-default
+{
+  font-size:10px;
+  border-radius: 37px;
+}
+#slider-age1
+{
+  height:5px;
+  margin-top:29px;
+}
+#slider-age1 > span:nth-child(2)
+{
+  top:-4px;
+}
+#slider-age1 > span:nth-child(3)
+{
+  top:-4px;
+}
+.ui-widget-header
+{
+  background-color: #5B72E9;
+  color:#5B72E9;
+}
+.ui-widget-content
+{
+  background-color: #E1E1E1;
+  border:none;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default
+{
+  background-color:#5B72E9;
+  border:none;
+}
+.ui-state-focus
+{
+  border:none;
+}
+input[type=radio], input[type=checkbox] {
+    margin: 4px 0 -7px;
+    margin-top: 1px \9;
+    line-height: normal;
+}
+#age12
+{
+  width:52px;
+  float:right;
+  border:none;
+}
+#hidden > div > div.col-md-4.people-nearby-age > div > p > label
+{
+  color:#3E3E3E;
+}
+.
+.col-member-detail
+{
+  top:149px;
+  background-color: #3A2216;
+  opacity:0.8;
+}
+.n_member
+{
+  display:none;
+}
+.pagination
+{
+  position: relative;
+}
+.n_member_detail
+{
+  margin-top:163px;
+  background-color: #332218;
+    opacity: 0.7;
+}
+body > div.wrap > section > div > div > div.col-md-7 > div.cont-cover > div > div > a > div.row > div > ul > li
+{
+  border:none;
+}
+.material-tune-settings
+{
+    color: black;
+    background-color: #EBEBEB;
+    border-radius: 15px;
+    padding-top: 4px;
+    padding-bottom: 5px;
+    padding-left: 3px;
+    padding-right: 4px;
+    float:right;
+    margin-top:11px;
+}
+.line-1,.line-2,.line-3,.line-4
+{
+  width:30px;
+  height:3px;
+  background-color: blue;
+  display:inline;
+}
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus,
+body > div.wrap > section > div > div > div.col-md-7 > div.cont-cover > div > ul > li:nth-child(3) > a,
+body > div.wrap > section > div > div > div.col-md-7 > div.cont-cover > div > ul > li:nth-child(4) > a,
+body > div.wrap > section > div > div > div.col-md-7 > div.cont-cover > div > ul > li:nth-child(5) > a,
+body > div.wrap > section > div > div > div.col-md-7 > div.cont-cover > div > ul > li:nth-child(6) > a,
+body > div.wrap > section > div > div > div.col-md-7 > div.cont-cover > div > ul > li:nth-child(7) > a,
+body > div.wrap > section > div > div > div.col-md-7 > div.cont-cover > div > ul > li:nth-child(2) > a
+{
+  background-color: #EBEBEB;
+  border-radius: 25px;
+}
+.container1
+{
+  width:108%;
+}
+body > div.wrap > section > div > div > div.col-md-7 > div.cont-cover > div > div > div > a > div.row > div > ul > li
+{
+  border:none;
+}

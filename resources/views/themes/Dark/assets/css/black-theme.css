@@ -1,0 +1,271 @@
+body
+{
+	background: #323A42!important;
+}
+.top-log
+{
+	background-color:#38414A;
+}
+.cont-cover,.cont-cover1
+{
+	background: #38414A!important;
+}
+.bg-wh
+{
+	background: #38414A!important;
+	
+}
+
+.btn.btn-add-vid
+{
+	    border: 1px solid rgba(245, 245, 245, 0.37) !important;
+    border-radius: 25px !important;
+    color: rgb(46, 53, 60) !important;
+}
+
+.premium
+{
+	    background-color: rgba(133, 137, 142, 0.35) !important;
+}
+
+.high
+{
+	position: relative;
+	    left: 47px;
+}
+
+#c-menu--slide-left
+{
+	    background: rgb(49, 48, 48) !important;
+}
+
+.photo-counter
+{
+	    background: rgba(245, 245, 245, 0.43) !important;
+}
+
+.mid_body_container
+{
+	    background: #30373F !important;
+}
+
+.bg-wh > form
+{
+	background: none !important;
+}
+
+.form-horizontal div label
+{
+	color: #BDB6B6 !important;
+}
+
+.fa-pencil
+{
+	    color: rgba(237, 238, 241, 0.62) !important;
+}
+
+.navigation a
+{
+	    color: #ECEDEE !important;
+	    float: left;
+}
+
+.material-icon-custom-styling
+{
+	    color: rgb(161, 165, 168) !important;
+}
+
+.cont-cover1 h4
+{
+	color: rgb(161, 165, 168) !important;
+}
+
+.user_location_icon > i
+{
+	    color: #A1A5A8 !important; 
+}
+.showless
+{
+	background: #323A42 !important;
+}
+#thumbnail-slider
+{
+	background: #323A42!important;
+	margin-top: -1px !important;
+}
+#c-button--slide-left
+{
+	color: rgba(255, 251, 251, 0.95);	
+}
+.nav-pills > .active > a, .nav-pills > .active > a:hover, .nav-pills > li > a:hover
+{
+	    color: #EBEBEC !important;
+}
+.dropdown-button-custom-styling
+{
+	background-color: #323A41;
+	color:#E2E4E5;
+}
+body > div > section
+{
+	 background-color: #323A42;
+}
+body > div > section > div > div > div.col-md-7.pad
+{
+	background-color: inherit;
+}
+.number-of-vistors
+{
+	background-color: #353E46;
+}
+.dropdown-menu
+{
+	background-color: #2E353C;
+}
+.premium
+{
+	background-image:none!important;
+	background-color: #2E353C;
+}
+body > div > section > div > div > div.col-md-3.pad > div.premium > h2
+{
+	color:#E0E0E1;
+}
+.your-prof
+{
+	background-color: #38414A!important;
+	border:none;
+}
+.complete-your-profile , .complete h3 , .complete > p , .user-border 
+{
+  color:#E0E0E1!important;	
+}
+.cont-cover
+{
+	border:none;
+}
+
+.cont-header
+{
+	background-color: #38414A;
+}
+body > div > section > div > div > div.col-md-7.pad > div > div.bg-wh
+{
+	background-color: #38414A;
+}
+.carousel-control .glyphicon-chevron-right, .carousel-control .icon-next
+{
+	color:rgb(252, 252, 252);
+}
+.carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev
+{
+	color:rgb(252, 252, 252);
+}
+
+.right-cross-alpha
+{
+	    
+}
+.person_box
+{
+	
+    box-shadow: 0px 0px 2px 2px rgba(115, 113, 113, 0.56) !important;
+}
+
+
+table.table-settings>tbody>tr>td
+{
+	    border-top: 1px solid rgba(221, 221, 221, 0)  !important;
+}
+.spotlight_box
+{
+	    border-bottom: 1px solid #535A62 !important;
+}
+
+.refill_container {
+    text-align: center;
+    /* background: transparent linear-gradient( #ECEAEB, #656263) repeat scroll 0px 0px !important; */
+    background-color: #A1A5A8 !important;
+    /* color: #B37979; */
+    padding: 5px 5px 15px;
+    border-radius: 5px;
+        margin-top: 9%;
+}
+
+.btn.btn-add-vid:first-child
+{
+	    background: #541111;
+}
+
+.credits_page {
+    position: absolute;
+    top: 68% !important;
+    left: 14%;
+}
+.cont-cover1 h4
+{
+	    border-bottom: 1px solid rgba(213, 213, 213, 0.17) !important;
+}
+hr
+{
+	    background-color: rgba(213, 213, 213, 0.21) !important;
+}
+.people-current-location-tab
+{
+	border-bottom: 1px solid rgba(161, 165, 168, 0.27) !important;
+}
+
+.edit_profile_form_user_basic
+{
+	    background-color: rgba(161, 165, 168, 0) !important;
+}
+.txtPlaces
+{
+	    border-bottom: 2px solid rgba(14, 6, 6, 0) !important;
+}
+.score_cnt
+{
+	    border-left: 2px solid rgba(245, 238, 238, 0.17) !important;
+}
+
+.user_stats
+{
+	    border-bottom: 1px solid rgba(235, 235, 235, 0.2) !important;
+}
+
+.user-number-likes
+{
+	    color: #EEEEEE !important;
+}
+
+.loaderUploadProfilePic
+{
+	  
+	    
+	       background-color: rgba(255, 255, 255, 0.01) !important;
+}
+.people-current-location-tab
+{
+	background-color: #353E46;
+}
+.material-pindrop
+{
+	background-color: #30383F;
+}
+.txtPlaces
+{
+	background-color: inherit;
+	border-bottom: 2px solid rgba(14, 6, 6, 0.5);
+}
+.material-tune-settings
+{
+	background-color: #30383F;
+}
+body > div.wrap > section > div > div > div.col-md-7.pad > div:nth-child(1)
+{
+	background-color: inherit!important;
+}
+.ad-col-head ,.ad-col-bottom, .ad-col-left,.ad-col-right
+{
+	background: #323A42!important;
+}

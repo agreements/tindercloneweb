@@ -1,0 +1,21 @@
+<?php return 
+ array (
+  'use_your_credits_for' => 'Használd a kredit:',
+  'make_it_private' => 'Legyen saját',
+  'this_photo_is_private' => 'Ez a kép saját',
+  'click_to_send_request' => 'Kattintson a kérés elküldése',
+  'private_photo_link_text' => 'privát fotók',
+  'private_photo_pending_header' => 'Privát fotók Függő kérések',
+  'no_private_photos_text' => 'Nem érzem, levert! Nem kell minden függőben lévő kérelmeket.',
+  'private_photos_request_accept' => 'kérés elfogadva',
+  'private_photos_request_reject' => 'kérelem elutasítva',
+  'private_photos_request_sent' => 'Kérés, hogy privát fotókat Már elküldött.',
+  'note' => 'Jegyzet!',
+  'private_photos_send_request' => 'Ha látni privát fotókat küldje el kérését',
+  'private_photos_send_request_ask' => 'Küldje kérelem, hogy a privát fotók?',
+  'click_to_cancel_request' => 'Kattintson, hogy megszünteti',
+  'image_private_success' => 'A kép magán most',
+  'image_public_success' => 'Kép nyilvános most',
+  'make_public_photo_error' => 'Nem lehet, hogy ez a fotó nyilvánosságra',
+  'accecpt_photo_request_notif_text' => 'elfogadta a privát fotó kérés',
+);
